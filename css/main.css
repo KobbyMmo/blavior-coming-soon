@@ -1553,7 +1553,6 @@ input::-moz-focus-inner {
 
   .header-logo img {
     width: 125px;
-    height: 20px;
   }
 
 }
@@ -1561,7 +1560,6 @@ input::-moz-focus-inner {
 @media screen and (max-width:600px) {
   .header-logo img {
     width: 120px;
-    height: 19px;
   }
 
 }
